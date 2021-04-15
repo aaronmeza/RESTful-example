@@ -1,2 +1,2 @@
 # RESTful-example
-an example RESTful service in golfing
+an example RESTful service in golang
